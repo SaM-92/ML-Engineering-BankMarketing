@@ -58,7 +58,7 @@ In the current project, particularly in the hyperdrive section, our focus was ex
 ## Proof of cluster clean up
 **Image of cluster marked for deletion**
 
-![Alt text](./image/udacity.JPG)
+![Alt text](./udacity.JPG)
 
 
 
